@@ -3,4 +3,4 @@ eureka:
     service-url:
        defaultZone: http://localhost:8761/eureka/
 
-desc: test spring  configcloud hello!!! 123456
+desc: test spring  configcloud hello!!! 1234567
