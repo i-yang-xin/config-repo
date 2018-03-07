@@ -3,5 +3,5 @@ eureka:
     service-url:
        defaultZone: http://localhost:8761/eureka/
 
-age: 100000
+age: 123
 
