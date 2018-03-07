@@ -4,5 +4,5 @@ eureka:
        defaultZone: http://localhost:8761/eureka/
 
 desc: '{cipher}fd2a2ef2cd7b4c28e17c05ff562d0bd9b34582748af0133efc0404f2e7bc8588349cff105e5d7d739e46d5ba88dbee7e'
-name: yangxin 。。。。。123
+name: yangxin 。。。。。123456
 
